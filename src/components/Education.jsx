@@ -27,19 +27,7 @@ function Education() {
           <span><i className="ri-book-line"></i></span>
           <h4>Relevant Coursework</h4>
           <ul>
-            <li className="course">Computer Science I & II</li>
-            <li className="course">Discrete Math I & II</li>
-            <li className="course">Calculus I & II</li>
-            <li className="course">Discrete Mathematics for Computing I & II</li>
-            <li className="course">Software Engineering</li>
-            <li className="course">Data Structure and Algorithm Analysis</li>
-            <li className="course">Digital Logic and Computer Design</li>
-            <li className="course">System Programming in Unix and Other Environments</li>
-            <li className="course">Programming Language Paradigms</li>
-            <li className="course">Augmented Reality</li>
-            <li className="course">Artificial Intelligence</li>
-            <li className="course">Operating Systems</li>
-            <li className="course">Database Systems</li>
+            
           </ul>
         </div>
       </div>
