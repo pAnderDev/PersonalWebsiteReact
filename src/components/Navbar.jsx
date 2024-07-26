@@ -28,9 +28,7 @@ function Navbar() {
   return (
     <nav>
       <div className="nav-logo">
-        <a href="#">
-          <img src="NOVAN-4.ico" alt="Logo" />
-        </a>
+        <img src="NOVAN-4.ico" alt="Logo" />
       </div>
       <ul className="nav-links">
         <li id="link1" className="link"><a href="#education">Education</a></li>
