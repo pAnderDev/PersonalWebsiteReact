@@ -10,9 +10,7 @@ function Header() {
         <h4>Welcome to my Portfolio</h4>
         <h1>Hello World, I'm <span>Patrick Anderson </span></h1>
         <p>
-          Hello reader! I am a Computer Science student at UTD currently in my Senior year.
-          I enjoy software and web development in all aspects. I have work experience in web development and business marketing and schooling in
-          software development. I am a quick learner and am able to work well on my own or with a team.
+          I love you Hailey so much, you are the love of my life and I will do anything for you.
         </p>
       </div>
       <div className="image">
