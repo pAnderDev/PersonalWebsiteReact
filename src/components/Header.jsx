@@ -16,7 +16,7 @@ function Header() {
         </p>
       </div>
       <div className="image">
-        <img src="san_diego_esri.jpeg" alt="San Diego Esri" />
+        <img src={`${process.env.PUBLIC_URL}/san_diego_esri.jpeg`} alt="San Diego Esri" />
         <p>Left to Right: Jack Dangermond, Owner of Esri | Me | Anais Anderson</p>
       </div>
     </header>
@@ -24,3 +24,4 @@ function Header() {
 }
 
 export default Header;
+
