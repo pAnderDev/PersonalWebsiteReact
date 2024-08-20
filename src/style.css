@@ -181,11 +181,19 @@ section .header{
 .card-style .card p{
     color: #ccc;
     margin-bottom: 1rem;
+    text-align: center;
+    margin-top: 3rem;
 }
 
-.card-style .card li{
+.card-style .card li#course{
     color: #ccc;
     margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.card-style .card li#skills{
+    color: #ccc;
+    margin-left: 1rem;
 }
 
 .card-style .card a{
