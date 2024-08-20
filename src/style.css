@@ -185,6 +185,12 @@ section .header{
     margin-top: 3rem;
 }
 
+.card-style .card li#work{
+    color: #ccc;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
 .card-style .card li#course{
     color: #ccc;
     margin-bottom: 1rem;
