@@ -127,8 +127,22 @@ function Projects() {
           </div>
         </div>
 
+        <div className="card-horizontal">
+          <h4>EVNID</h4>
+          <p>
+            UTD Capstone project in colaboration with Toyota Tsusho Systems and a team of UTD engineering majors. I lead a team of computer science majors to assist in the research and developement
+            of a penetration testing tool, and an associated simulated testing environment. Developed a software package called EVNID, Electric Vehicle Network Interfereance Device, to infiltrate the connection between the 
+            EV (Electric Vehicle), and EVSE (Electric Vehicle Supply Equipment). This tool will provide the ability to test, research, and develop better stronger systems for better security to protect both the Vehicle
+            and user's private information.
+          </p>
+          <a>
+          ** All information and details on the project is protected under NDA and propriotary to Toyota Tsusho Systems ** 
+          </a>
+
+        </div>
+
         <div className="navigation">
-          {[...Array(6)].map((_, index) => (
+          {[...Array(7)].map((_, index) => (
             <label 
               key={index} 
               className={`bar ${index === activeIndex ? 'active' : ''}`} 

@@ -8,7 +8,7 @@ function Education() {
         <div className="card">
           <span><i className="ri-school-line"></i></span>
           <h4>University of Texas at Dallas</h4>
-          <h5>Fall 2020 - Fall 2024 | GPA 2.895</h5>
+          <h5>Fall 2020 - Fall 2024 | GPA 2.896</h5>
           <p>
            Currently pursuing a Bachelors of Science in Computer Science finishing in December 2024. Extensive expereinece in all aspects from database, to 
            networking, to front end. Gained classroom experience in working with a team, and conducting the lifecycle of a product or software from conception to final product.
@@ -34,6 +34,7 @@ function Education() {
             <li id='skills'>Trello</li>
             <li id='skills'>jQuery</li>
             <li id='skills'>Ajax</li>
+            <li id='skills'>Postman</li>
             <h5>Database</h5>
             <li id='skills'>MongoDB</li>
             <li id='skills'>MySQL</li>
