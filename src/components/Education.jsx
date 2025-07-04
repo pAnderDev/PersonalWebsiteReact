@@ -10,9 +10,9 @@ function Education() {
           <h4>University of Texas at Dallas</h4>
           <h5>Fall 2020 - Fall 2024 | GPA 2.896</h5>
           <p>
-           Currently pursuing a Bachelors of Science in Computer Science finishing in December 2024. Extensive expereinece in all aspects from database, to 
-           networking, to front end. Gained classroom experience in working with a team, and conducting the lifecycle of a product or software from conception to final product.
-           Utilized schooling and experiece to expand on my skills outside of class, working on many personal projects. 
+           Completed a Bachelors of Science in Computer Science in December 2024. Extensive expereinece in all aspects from database, to networking, to front and back end development. 
+           Gained classroom experience in working with a team, and conducting the life-cycle of a product or software from conception to final product.
+           Utilized schooling and experiece to expand on my skills outside of class, working on many personal projects and utilizing my knowledge in the professional sphere. 
           </p>
         </div>
         <div className="card">
