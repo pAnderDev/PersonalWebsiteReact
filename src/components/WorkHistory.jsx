@@ -10,9 +10,11 @@ function WorkHistory() {
             <h4>Full Stack Developer</h4>
             <h5>Antera Software | December 2024 - Present</h5>
             <ul>
-              <li id='work'>Utilized PHP to rework and optimize existing back end code</li>
-              <li id='work'>Solved customer issues on Advance system.</li>
-              <li id='work'>Optimized PromoStandards API integration with Advance system.</li>
+              <li id='work'>Optimized and streamlined existing front and back end code</li>
+              <li id='work'>Generated clean code and documentation to statisfy and exceed customer expectations.</li>
+              <li id='work'>Participated in scrum like meetings and development.</li>
+              <li id='work'>Integrated third party APIs with company product to provide better services to customers</li>
+              <li id='work'>Utilized PHP, Angular, and various frameworks to generate satisfactory code based on requirements</li> 
             </ul>
         </div>
         <div className="card">
@@ -33,6 +35,16 @@ function WorkHistory() {
             <li id='work'>Produced informative advertising materials including mailers, faxes, and emails effectively disseminating details about company-taught police trainings across the nation.</li>
             <li id='work'>Utilized PHP, jQuery/JavaScript, and MySQL to sort, analyze, and warehouse marketing data to provide actionable insights and enhance campaign strategies.</li>
             <li id='work'>Demonstrated exceptional communication skills through discourse with various professional individuals from Police Officers to Police Chiefs, fostering relationships and facilitating successful collaborations and classes.</li>
+          </ul>
+        </div>
+        <div className="card">
+          <span><i className="ri-building-line"></i></span>
+          <h4>Online Unity and Java Instructor</h4>
+          <h5>iDTech | May 2022 - August 2022</h5>
+          <ul>
+            <li id='work'>Utilized experience and knowledge of Unity and Java to teach eager youth complex techniques.</li>
+            <li id='work'>Provided students high quality instruction recieving high marks from parents and students alike.</li>
+            <li id='work'>Participated in company culture and weekly stand up meetings to gain better teaching habits.</li>
           </ul>
         </div>
       </div>

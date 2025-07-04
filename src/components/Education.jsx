@@ -21,19 +21,21 @@ function Education() {
           <ul>
             <h5>Languages</h5>
             <li id='skills'>Java</li>
-            <li id='skills'>C/C++</li>
+            <li id='skills'>C/C++/C#</li>
             <li id='skills'>Python</li>
             <li id='skills'>HTML/CSS</li>
             <li id='skills'>JavaScript</li>
             <li id='skills'>PHP</li>
-            <h5 id='skills'>Frameworks & Tools</h5>
+            <li id='skills'>SQL</li>
+            <li id='skills'>TypeScript</li>
+            <h5>Frameworks</h5>
             <li id='skills'>React.js</li>
             <li id='skills'>Node.js</li>
             <li id='skills'>Express.js</li>
+            <li id='skills'>Angular</li>
+            <h5>Tools</h5>
             <li id='skills'>Git</li>
             <li id='skills'>Trello</li>
-            <li id='skills'>jQuery</li>
-            <li id='skills'>Ajax</li>
             <li id='skills'>Postman</li>
             <h5>Database</h5>
             <li id='skills'>MongoDB</li>
